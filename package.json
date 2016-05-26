@@ -1,0 +1,22 @@
+{
+  "name": "firstserverlessapp",
+  "version": "1.0.0",
+  "description": "Trying this serverless framework thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andkon/firstserverlessapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andkon/firstserverlessapp/issues"
+  },
+  "homepage": "https://github.com/andkon/firstserverlessapp#readme",
+  "dependencies": {
+    "serverless": "^0.5.5"
+  }
+}
